@@ -2,7 +2,7 @@ import speech_recognition as sr
 import pyttsx3
 import cohere
 #initialising cohere API key
-co = cohere.ClientV2("ohFOgxRJse8JieBvehy34x8YcUqQ8KKu1PAt6ozl")
+co = cohere.ClientV2("#ADD COHERE API KEY :)")
 
 #Send prompt to cohere through API 
 def chat(prompt):
