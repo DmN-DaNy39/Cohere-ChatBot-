@@ -2,8 +2,9 @@
 This uses the <a href="https://cohere.com/">Cohere</a> API, the pyttsx3 library and the python speech recognition library.
 
 # How to Use
-To use this program use have to have pyttsx3 and speech recognition installed so you could;
+To use this program use have to have cohere, pyttsx3 and speech recognition installed so you could;
 ```bash
+pip install cohere
 pip install pyttsx3
 pip install SpeechRecognition
 ```
